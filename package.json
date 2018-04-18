@@ -1,0 +1,61 @@
+{
+  "_from": "ngx-masonry",
+  "_id": "ngx-masonry@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-o+rDsBEtMtH7LSFeKRyEgD93ktJwpE21+II/EXFQf23Bh3ICHe/AygrldN3WPGXU5AuXItWnkD3chnwYQyGQlA==",
+  "_location": "/ngx-masonry",
+  "_phantomChildren": {
+    "tslib": "1.8.1"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-masonry",
+    "name": "ngx-masonry",
+    "escapedName": "ngx-masonry",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-masonry/-/ngx-masonry-1.0.7.tgz",
+  "_shasum": "896c986c3fa1a6d0221d006f55607ec41a5d4f65",
+  "_spec": "ngx-masonry",
+  "_where": "/Users/bmuller/IdeaProjects/inform-cc-application",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@angular/common": ">=5.0.0",
+    "core-js": "^2.4.1",
+    "imagesloaded": "^4.1.1",
+    "masonry-layout": "^4.2.0",
+    "rxjs": "^5.5.2",
+    "zone.js": "^0.8.14"
+  },
+  "deprecated": false,
+  "description": "Angular Module for displaying a feed of items in a masonry layout using https://github.com/desandro/masonry",
+  "es2015": "ngx-masonry.js",
+  "keywords": [
+    "angular",
+    "angular 2",
+    "masonry",
+    "masonry layout",
+    "masonry feed",
+    "desandro",
+    "masonry"
+  ],
+  "license": "MIT",
+  "main": "bundles/ngx-masonry.umd.js",
+  "metadata": "ngx-masonry.metadata.json",
+  "module": "ngx-masonry.es5.js",
+  "name": "ngx-masonry",
+  "peerDependencies": {
+    "@angular/common": ">=5.0.0",
+    "masonry-layout": ">=4.0.0 <5.0.0"
+  },
+  "private": false,
+  "typings": "ngx-masonry.d.ts",
+  "version": "1.0.7"
+}
